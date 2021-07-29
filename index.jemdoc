@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Haoyu Yin
+
+~~~
+{}{img_left}{photos/bio.jpeg}{alt text}{215}{220}
+ [https://www.polyu.edu.hk/eie/ Department of Electronic and Information Engineering ], \n[https://www.polyu.edu.hk/ The Hong Kong Polytechnic University (PolyU)]\n
+Office: \ Room CD515, EIE, PolyU \n
+Email: \haoyu.yin[@]polyu.connect.hk \n
+\[[https://scholar.google.fr/citations?user=nqCw-jkAAAAJ&hl=zh-CN google scholar]\] \n
+~~~
+
+== About me
+I received my B.E. degree in Electronic Information Engineering from [https://www.shanghaitech.edu.cn/ ShanghaiTech University] in 2020. 
+\n During my stay at ShanghaiTech, I was fortunate to work with [https://faculty.sist.shanghaitech.edu.cn/faculty/boris/ Prof. Boris Houska] and [https://faculty.sist.shanghaitech.edu.cn/faculty/wyl/ Prof. Youlong Wu]. 
+ 
+ Currently, I am pursuing my Ph.D. study at Department of Electronic and Information Engineering, The Hong Kong Polytechnic University in [https://www.eie.polyu.edu.hk/~jeiezhang/ Prof. Jun Zhang]'s group.
+
+== Research
+My research interests include:
+- Distributed Optimization  
+- Online Learning
+- Information Theory
+
