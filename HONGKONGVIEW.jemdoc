@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{HONGKONGVIEW.html}, nofooter  ==Haoyu Yin - Gallery=== Spots in Hong Kong
+Some photos are taken with [https://kippon.github.io/ Qipeng Wang] and [https://www.sy2k.com/art/ Shaoyang Wang].
+~~~
+{}{img_left}{photos/1.jpeg}{alt text}{600}{900}{IMGLINKTARGET}
+~~~
+
+~~~
+{}{img_left}{photos/2.jpeg}{alt text}{600}{400}{IMGLINKTARGET}
+~~~
+
+~~~
+{}{img_left}{photos/3.jpeg}{alt text}{600}{400}{IMGLINKTARGET}
+~~~
+
+~~~
+{}{img_left}{photos/4.jpeg}{alt text}{600}{400}{IMGLINKTARGET}
+~~~
+~~~
+{}{img_left}{photos/5.jpeg}{alt text}{600}{400}{IMGLINKTARGET}
+~~~
+
+~~~
+{}{img_left}{photos/6.jpeg}{alt text}{600}{400}{IMGLINKTARGET}
+~~~
+
+~~~
+{}{img_left}{photos/7.jpeg}{alt text}{600}{400}{IMGLINKTARGET}
+~~~
