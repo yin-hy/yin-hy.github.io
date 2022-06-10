@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{USVIEW.html}, nofooter  == \+\+ \& \-\-
+
+~~~
+{}{}
+Wherever I go, you bring me home.
+~~~
+
+~~~
+{}{img_left}{photos/++.jpg}{alt text}{600}{400}{IMGLINKTARGET}
+~~~
+
