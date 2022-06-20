@@ -1,2 +1,12 @@
 # jemdoc: menu{MENU}{article1.html}, nofooter  ==Notes on Median Bounds and their Application
-Medians of probability distributions, a
+Medians of probability distributions
+
+{{
+<script src="https://utteranc.es/client.js"
+        repo="szl2/szl2.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+}}
