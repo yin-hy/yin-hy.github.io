@@ -1,4 +1,6 @@
-# jemdoc: menu{MENU}{HONGKONGVIEW.html}, nofooter  ==Haoyu Yin - Gallery=== View in the United States
+# jemdoc: menu{MENU}{USVIEW.html}, nofooter  
+== Haoyu Yin - Gallery
+== Views in the United States
 
 Some photos are taken with [https://500px.com/hewb14 Wenbo He] and Yunshen Huang.
 ~~~
@@ -16,9 +18,7 @@ Some photos are taken with [https://500px.com/hewb14 Wenbo He] and Yunshen Huang
 ~~~
 {}{img_left}{photos/fig4.jpeg}{alt text}{600}{400}{IMGLINKTARGET}
 ~~~
-~~~
-{}{img_left}{photos/fig5.jpeg}{alt text}{600}{400}{IMGLINKTARGET}
-~~~
+
 
 ~~~
 {}{img_left}{photos/fig6.jpeg}{alt text}{600}{400}{IMGLINKTARGET}
@@ -27,7 +27,6 @@ Some photos are taken with [https://500px.com/hewb14 Wenbo He] and Yunshen Huang
 ~~~
 {}{img_left}{photos/fig8.jpeg}{alt text}{600}{900}{IMGLINKTARGET}
 ~~~
-
 
 
 ~~~
@@ -49,7 +48,6 @@ Some photos are taken with [https://500px.com/hewb14 Wenbo He] and Yunshen Huang
 ~~~
 {}{img_left}{photos/fig12.jpg}{alt text}{600}{900}{IMGLINKTARGET}
 ~~~
-
 
 ~~~
 {}{img_left}{photos/fig13.JPG}{alt text}{600}{900}{IMGLINKTARGET}
@@ -80,5 +78,10 @@ Some photos are taken with [https://500px.com/hewb14 Wenbo He] and Yunshen Huang
 ~~~
 
 ~~~
-{}{img_left}{photos/ve.png}{alt text}{30}{30}{++.html}
+{}{img_left}{photos/card1.jpg}{alt text}{600}{400}{IMGLINKTARGET}
 ~~~
+
+~~~
+{}{img_left}{photos/1-1 2.jpg}{alt text}{600}{400}{IMGLINKTARGET}
+~~~
+
