@@ -285,6 +285,14 @@ h3 {
   border-top: 1px solid var(--line);
 }
 
+.publication-group + .publication-group {
+  margin-top: 44px;
+}
+
+.publication-group > h2 {
+  margin-bottom: 16px;
+}
+
 .research-chip-grid {
   display: grid;
   grid-template-columns: 1fr;
