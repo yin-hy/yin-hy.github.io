@@ -5,9 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Gallery | Haoyu Yin</title>
   <meta name="description" content="Photography gallery by Haoyu Yin.">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=slow-texture">
+  <script src="background.js?v=texture-scroll" defer></script>
 </head>
 <body>
+  <div class="site-backdrop" aria-hidden="true">
+    <div class="site-backdrop-track"><span></span><span></span><span></span><span></span></div>
+  </div>
+  <a class="skip-link" href="#main-content">Skip to content</a>
   <header class="site-header">
     <nav class="nav" aria-label="Main navigation">
       <a class="brand" href="index.html">Haoyu Yin<span>Systems, control, and games</span></a>
@@ -20,7 +25,7 @@
     </nav>
   </header>
 
-  <main>
+  <main id="main-content">
     <section class="page-title">
       <p class="eyebrow">Gallery</p>
       <h1>Views</h1>
@@ -29,14 +34,14 @@
     <section class="section">
       <div class="gallery-index">
         <a class="gallery-entry" href="HONGKONGVIEW.html">
-          <img src="photos/1.jpeg" alt="Hong Kong city view">
+          <img src="photos/1.jpeg" alt="Hong Kong city view" width="959" height="1440">
           <span>
             <strong>Hong Kong</strong>
             <small>Views from Hong Kong</small>
           </span>
         </a>
         <a class="gallery-entry" href="USVIEW.html">
-          <img src="photos/1-1 2.jpg" alt="United States landscape view">
+          <img src="photos/1-1 2.jpg" alt="The Gateway Arch and St. Louis skyline across the river at sunset" width="5683" height="3781" loading="lazy">
           <span>
             <strong>United States</strong>
             <small>Views from the United States</small>
