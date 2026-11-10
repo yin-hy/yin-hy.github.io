@@ -2,7 +2,7 @@
   --ink: #222e37;
   --muted: #49545d;
   --paper: #ffffff;
-  --wash: #f7f8f9;
+  --wash: #fafbfc;
   --content-width: 980px;
   --accent: #2e566d;
   --accent-strong: #214154;
@@ -157,6 +157,7 @@ main > .section {
   inset: 0;
   overflow: hidden;
   opacity: 0.56;
+  filter: brightness(0.95) contrast(1.28);
   pointer-events: none;
 }
 
@@ -165,7 +166,7 @@ main > .section {
   grid-template-columns: repeat(4, minmax(0, 1fr));
   width: max(400vw, 712vh);
   height: 100%;
-  animation: daylight-scroll 168s linear -36s infinite;
+  animation: daylight-scroll 189s linear -40.5s infinite;
 }
 
 .site-backdrop-track > span {
