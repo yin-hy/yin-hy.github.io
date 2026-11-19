@@ -236,7 +236,7 @@ main > .section {
 .hero {
   min-height: auto;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 235px;
+  grid-template-columns: minmax(0, 1fr) 260px;
   align-items: center;
   gap: 42px;
   padding: 42px max(var(--gutter), calc((100% - var(--content-width)) / 2)) 46px;
@@ -379,7 +379,8 @@ h3 {
 }
 
 .portrait-card img {
-  width: 100%;
+  width: 260px;
+  max-width: 100%;
   aspect-ratio: 1 / 1;
   height: auto;
   object-fit: cover;
